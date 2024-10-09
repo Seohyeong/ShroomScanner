@@ -15,10 +15,19 @@ class ImageClassifier: ObservableObject {
         classifier.results
     }
         
-    // MARK: Intent(s)
     func detect(uiImage: UIImage) {
         guard let ciImage = CIImage (image: uiImage) else { return }
         classifier.detect(ciImage: ciImage)
+    }
+    
+    func eval(imagePaths: [String]) {
+        for path in imagePaths {
+            if let uiImage = UIImage(contentsOfFile: path) {
+                guard let ciImage = CIImage (image: uiImage) else { return }
+                classifier.detect(ciImage: ciImage)
+                // Optionally: store results for further analysis
+            }
+        }
     }
 }
 

@@ -11,7 +11,7 @@ import SwiftUI
 struct ShroomScannerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ShroomScannerView(classifier: ImageClassifier())
         }
     }
 }

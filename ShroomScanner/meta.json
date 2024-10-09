@@ -127,7 +127,7 @@
         "family": "Pucciniaceae",
         "genus": "Puccinia",
         "commonName": "Mayapple Rust",
-        "desc": "Allodus podophylli, the mayapple rust, is a plant pathogen. This fungal parasite forms tiny bright orange cups on the underside of leaves of mayapple.\nWhile the name Puccinia podophylli is often used, in 2012 the name Allodus podophylli was resurrected based on DNA evidence."
+        "desc": "Allodus podophylli, the mayapple rust, is a plant pathogen. This fungal parasite forms tiny bright orange cups on the underside of leaves of mayapple.While the name Puccinia podophylli is often used, in 2012 the name Allodus podophylli was resurrected based on DNA evidence."
     },
     {
         "species": "Fusicolla merismoides",
@@ -569,7 +569,7 @@
         "family": "Polyporaceae",
         "genus": "Trametes",
         "commonName": "Southern Cinnabar Polypore",
-        "desc": "Trametes is a genus of poroid fungi in the family Polyporaceae. As of December 2017, Index Fungorum accepts 195 species of Trametes:\n\nA B C D E F G H I J K L M N O P Q R S T U V  W X Y Z"
+        "desc": "Trametes is a genus of poroid fungi in the family Polyporaceae. As of December 2017, Index Fungorum accepts 195 species of Trametes."
     },
     {
         "species": "Trametes hirsuta",
@@ -751,7 +751,7 @@
         "family": "Sclerodermataceae",
         "genus": "Scleroderma",
         "commonName": "common earthball",
-        "desc": "Scleroderma citrinum, commonly known as the common earthball, pigskin poison puffball, or common earth ball, is a species of earthball fungus found in Europe and in North America. It is the most common species of earthball fungus in the UK and occurs widely in woods, heathland and in short grass from autumn to winter. Scleroderma citrinum has two synonyms, Scleroderma aurantium (Vaill.) and Scleroderma vulgare Horn.\n\nEarthballs are superficially similar to, and considered look-alikes of, the edible puffball (particularly Apioperdon pyriforme), but whereas the puffball has a single opening on top through which the spores are dispersed, the earthball just breaks up to release the spores. Moreover, Scleroderma citrinum has much firmer flesh and a dark gleba (interior) much earlier in development than puffballs. Scleroderma citrinum has no stem but is attached to the soil by mycelial cords.  The peridium, or outer wall, is thick and firm, usually ochre yellow externally with irregular warts.\nScleroderma citrinum is an ectomycorrhizal fungus with a symbiotic relationship with some tree species, and can influence the diversity of soil bacterial communities under some tree species.\nThe earthball may be parasitized by Pseudoboletus parasiticus.\nScleroderma citrinum can be mistaken with truffles by inexperienced mushroom hunters. Ingestion of Scleroderma citrinum can cause gastrointestinal distress in humans and animals. Some individuals may experience lacrimation, rhinitis and rhinorrhea, and conjunctivitis from exposure to its spores.\nPigments found in the fruiting body of Scleroderma citrinum Pers. are sclerocitrin, norbadione A, xerocomic acid, and badione A."
+        "desc": "Scleroderma citrinum, commonly known as the common earthball, pigskin poison puffball, or common earth ball, is a species of earthball fungus found in Europe and in North America. It is the most common species of earthball fungus in the UK and occurs widely in woods, heathland and in short grass from autumn to winter. Scleroderma citrinum has two synonyms, Scleroderma aurantium (Vaill.) and Scleroderma vulgare Horn.\nEarthballs are superficially similar to, and considered look-alikes of, the edible puffball (particularly Apioperdon pyriforme), but whereas the puffball has a single opening on top through which the spores are dispersed, the earthball just breaks up to release the spores. Moreover, Scleroderma citrinum has much firmer flesh and a dark gleba (interior) much earlier in development than puffballs. Scleroderma citrinum has no stem but is attached to the soil by mycelial cords.  The peridium, or outer wall, is thick and firm, usually ochre yellow externally with irregular warts.\nScleroderma citrinum is an ectomycorrhizal fungus with a symbiotic relationship with some tree species, and can influence the diversity of soil bacterial communities under some tree species.\nThe earthball may be parasitized by Pseudoboletus parasiticus.\nScleroderma citrinum can be mistaken with truffles by inexperienced mushroom hunters. Ingestion of Scleroderma citrinum can cause gastrointestinal distress in humans and animals. Some individuals may experience lacrimation, rhinitis and rhinorrhea, and conjunctivitis from exposure to its spores.\nPigments found in the fruiting body of Scleroderma citrinum Pers. are sclerocitrin, norbadione A, xerocomic acid, and badione A."
     },
     {
         "species": "Cladonia fimbriata",
@@ -855,7 +855,7 @@
         "family": "Sclerodermataceae",
         "genus": "Pisolithus",
         "commonName": "Dead Man's Foot",
-        "desc": "Pisolithus arhizus, commonly known as the dead man's foot, dyeball, pardebal, or Bohemian truffle, is a widespread earth-ball like fungus, which may in fact be several closely related species. This puffball's black viscous gel is used as a natural dye for clothes. Pisolithus arhizus is a major component in mycorrhizal fungus mixtures that are used in gardening as powerful root stimulators. It is inedible.\nIn South Africa, it is known as the pardebal, and in Europe, it is known as the Bohemian truffle.\nThe fruiting body is 5\u201330 cm tall and 4\u201320 cm wide, with a thin yellow-brown to brown exterior layer. The spores are brown.\nDictyocephalos attenuatus is similar."
+        "desc": "Pisolithus arhizus, commonly known as the dead man's foot, dyeball, pardebal, or Bohemian truffle, is a widespread earth-ball like fungus, which may in fact be several closely related species. This puffball's black viscous gel is used as a natural dye for clothes. Pisolithus arhizus is a major component in mycorrhizal fungus mixtures that are used in gardening as powerful root stimulators. It is inedible.\nIn South Africa, it is known as the pardebal, and in Europe, it is known as the Bohemian truffle.\nThe fruiting body is 5\u201330 cm tall and 4\u201320 cm wide, with a thin yellow-brown to brown exterior layer. The spores are brown. Dictyocephalos attenuatus is similar."
     },
     {
         "species": "Mycena leptocephala",
@@ -1414,7 +1414,7 @@
         "family": "Omphalotaceae",
         "genus": "Omphalotus",
         "commonName": "ghost fungus",
-        "desc": "Omphalotus nidiformis, or ghost fungus, is a gilled basidiomycete mushroom most notable for its bioluminescent properties. It is known to be found primarily in southern Australia and Tasmania, but was reported from India in 2012 and 2018. The fan or funnel shaped fruit bodies are up to 30 cm (12 in) across, with cream-coloured caps overlain with shades of orange, brown, purple, or bluish-black. The white or cream gills run down the length of the stipe, which is up to 8 cm (3 in) long and tapers in thickness to the base. The fungus is both saprotrophic and parasitic, and its fruit bodies are generally found growing in overlapping clusters on a wide variety of dead or dying trees.\nFirst described scientifically in 1844, the fungus has been known by several names in its taxonomic history. It was assigned its current name by Orson K. Miller, Jr. in 1994. Its epithet name is derived from the Latin nidus \"nest\", hence 'nest shaped'. Similar in appearance to the common edible oyster mushroom, it was previously considered a member of the same genus, Pleurotus, and described under the former names Pleurotus nidiformis or Pleurotus lampas. Unlike oyster mushrooms, O. nidiformis is poisonous; while not lethal, its consumption leads to severe cramps and vomiting. The toxic properties of the mushroom are attributed to compounds called illudins. O. nidiformis is one of several species in the cosmopolitan genus Omphalotus, all of which have bioluminescent properties.\n\n"
+        "desc": "Omphalotus nidiformis, or ghost fungus, is a gilled basidiomycete mushroom most notable for its bioluminescent properties. It is known to be found primarily in southern Australia and Tasmania, but was reported from India in 2012 and 2018. The fan or funnel shaped fruit bodies are up to 30 cm (12 in) across, with cream-coloured caps overlain with shades of orange, brown, purple, or bluish-black. The white or cream gills run down the length of the stipe, which is up to 8 cm (3 in) long and tapers in thickness to the base. The fungus is both saprotrophic and parasitic, and its fruit bodies are generally found growing in overlapping clusters on a wide variety of dead or dying trees.\nFirst described scientifically in 1844, the fungus has been known by several names in its taxonomic history. It was assigned its current name by Orson K. Miller, Jr. in 1994. Its epithet name is derived from the Latin nidus \"nest\", hence 'nest shaped'. Similar in appearance to the common edible oyster mushroom, it was previously considered a member of the same genus, Pleurotus, and described under the former names Pleurotus nidiformis or Pleurotus lampas. Unlike oyster mushrooms, O. nidiformis is poisonous; while not lethal, its consumption leads to severe cramps and vomiting. The toxic properties of the mushroom are attributed to compounds called illudins. O. nidiformis is one of several species in the cosmopolitan genus Omphalotus, all of which have bioluminescent properties."
     },
     {
         "species": "Suillus pungens",
@@ -1427,7 +1427,7 @@
         "family": "Suillaceae",
         "genus": "Suillus",
         "commonName": "Pungent Slippery Jack",
-        "desc": "Suillus pungens, commonly known as the pungent slippery jack or the pungent suillus, is a species of fungus in the genus Suillus. The fruit bodies of the fungus have slimy convex caps up to\n14 cm (5.5 in) wide. The mushroom is characterized by the very distinct color changes that occur in the cap throughout development. Typically, the young cap is whitish, later becoming grayish-olive to reddish-brown or a mottled combination of these colors. The mushroom has a dotted stem (stipe) up to 7 cm (2.8 in) long, and 2 cm (0.8 in) thick. On the underside on the cap is the spore-bearing tissue consisting of minute vertically arranged tubes that appear as a surface of angular, yellowish pores. The presence of milky droplets on the pore surface of young individuals, especially in humid environments, is a characteristic feature of this species. S. pungens can usually be distinguished from other similar Suillus species by differences in distribution, odor and taste. The mushroom is considered edible, but not highly regarded.\nAn ectomycorrhizal species, S. pungens forms an intimate mutualistic relationship between its underground mycelium and the young roots of the associated host tree. The fungus\u2014limited in distribution to California\u2014fruits almost exclusively with Monterey and bishop pine, two trees with small and scattered natural ranges concentrated in the West Coast of the United States. Several studies have investigated the role of S. pungens in the coastal Californian forest ecosystem it occupies. Although the species produces more fruit bodies than other competing ectomycorrhizal fungi in the same location, it is not a dominant root colonizer, and occupies only a small percentage of ectomycorrhizal root tips. The fungus's propensity to fruit prolifically despite minimal root colonization is a result of its ability to efficiently transfer nutrients from its host for its own use."
+        "desc": "Suillus pungens, commonly known as the pungent slippery jack or the pungent suillus, is a species of fungus in the genus Suillus. The fruit bodies of the fungus have slimy convex caps up to 14 cm (5.5 in) wide. The mushroom is characterized by the very distinct color changes that occur in the cap throughout development. Typically, the young cap is whitish, later becoming grayish-olive to reddish-brown or a mottled combination of these colors. The mushroom has a dotted stem (stipe) up to 7 cm (2.8 in) long, and 2 cm (0.8 in) thick. On the underside on the cap is the spore-bearing tissue consisting of minute vertically arranged tubes that appear as a surface of angular, yellowish pores. The presence of milky droplets on the pore surface of young individuals, especially in humid environments, is a characteristic feature of this species. S. pungens can usually be distinguished from other similar Suillus species by differences in distribution, odor and taste. The mushroom is considered edible, but not highly regarded.\nAn ectomycorrhizal species, S. pungens forms an intimate mutualistic relationship between its underground mycelium and the young roots of the associated host tree. The fungus\u2014limited in distribution to California\u2014fruits almost exclusively with Monterey and bishop pine, two trees with small and scattered natural ranges concentrated in the West Coast of the United States. Several studies have investigated the role of S. pungens in the coastal Californian forest ecosystem it occupies. Although the species produces more fruit bodies than other competing ectomycorrhizal fungi in the same location, it is not a dominant root colonizer, and occupies only a small percentage of ectomycorrhizal root tips. The fungus's propensity to fruit prolifically despite minimal root colonization is a result of its ability to efficiently transfer nutrients from its host for its own use."
     },
     {
         "species": "Lentinus arcularius",
@@ -1440,7 +1440,7 @@
         "family": "Polyporaceae",
         "genus": "Lentinus",
         "commonName": "Spring Polypore",
-        "desc": "Lentinus arcularius, also known as the spring polypore, is a species of fungus in the family Polyporaceae. It has been found on all continents, but has primarily been documented in the United States, Austria, Mexico, Australia, and Japan. It was first documented in 1783 by German naturalist August Batsch under the name Boletus arcularius. It was later renamed to Polyporus arcularius in 1821 by Swedish mycologist Elias Magnus Fries before being recently (2010) transferred to the genus Lentinus.\n\n"
+        "desc": "Lentinus arcularius, also known as the spring polypore, is a species of fungus in the family Polyporaceae. It has been found on all continents, but has primarily been documented in the United States, Austria, Mexico, Australia, and Japan. It was first documented in 1783 by German naturalist August Batsch under the name Boletus arcularius. It was later renamed to Polyporus arcularius in 1821 by Swedish mycologist Elias Magnus Fries before being recently (2010) transferred to the genus Lentinus."
     },
     {
         "species": "Fomes fomentarius",
@@ -1765,7 +1765,7 @@
         "family": "Boletaceae",
         "genus": "Leccinum",
         "commonName": "Rossbeevera pachydermis",
-        "desc": "This is a list of species in the genus Leccinum. As of November 2023, Index Fungorum accepts 132 species in the genus Leccinum.\nA B C D E F G H I J K L M N O P Q R S T U V U W X Y Z"
+        "desc": "This is a list of species in the genus Leccinum. As of November 2023, Index Fungorum accepts 132 species in the genus Leccinum."
     },
     {
         "species": "Fomitopsis pinicola",
@@ -1791,7 +1791,7 @@
         "family": "Tricholomataceae",
         "genus": "Megacollybia",
         "commonName": "European Platterful Mushroom",
-        "desc": "Megacollybia is a genus of fungus in the family Marasmiaceae. Previously thought to be monotypic, the genus was split into several species on the basis of genetic data in 2007 . The type species, M. platyphylla, is restricted in distribution to Europe, Scandinavia, and western and central Russia. M. rimosa was described as new to science from Brazil in 2013.\n\n"
+        "desc": "Megacollybia is a genus of fungus in the family Marasmiaceae. Previously thought to be monotypic, the genus was split into several species on the basis of genetic data in 2007 . The type species, M. platyphylla, is restricted in distribution to Europe, Scandinavia, and western and central Russia. M. rimosa was described as new to science from Brazil in 2013."
     },
     {
         "species": "Sarcoscypha coccinea",
@@ -2272,7 +2272,7 @@
         "family": "Sebacinaceae",
         "genus": "Sebacina",
         "commonName": "white coral jelly fungus",
-        "desc": "Sebacina sparassoidea, the white coral jelly fungus, is a species of fungus in the family Sebacinaceae. Its coral-like basidiocarps (fruit bodies) are typically a yellowish off-white and have a gelatinous and elastic texture. Found in eastern North America, in humid environments amongst rotting logs of deciduous trees, particularly oaks, it is often observed growing throughout the months of August to September.\n\n"
+        "desc": "Sebacina sparassoidea, the white coral jelly fungus, is a species of fungus in the family Sebacinaceae. Its coral-like basidiocarps (fruit bodies) are typically a yellowish off-white and have a gelatinous and elastic texture. Found in eastern North America, in humid environments amongst rotting logs of deciduous trees, particularly oaks, it is often observed growing throughout the months of August to September."
     },
     {
         "species": "Ganoderma curtisii",
@@ -3234,7 +3234,7 @@
         "family": "Tapinellaceae",
         "genus": "Tapinella",
         "commonName": "Oyster Rollrim",
-        "desc": "Tapinella panuoides, also known as oyster rollrim, and as fan pax from its former binomial Paxillus panuoides, is a fungus species in the genus Tapinella.\nAtromentin is a phenolic compound. The first enzymes in its biosynthesis have been characterised in T. panuoides.\nDespite its pleasant taste, the species is poisonous. In North America it can be confused with poisonous western jack o'lanterns, edible chanterelle mushrooms, false chanterelles (Hygrophoropsis aurantiaca), Crepidotus, or Phyllotopsis.\n\nIt grows on wood or in \"lignin-rich humus,\" has little or no stalk where it emerges from the substrate, and the gills appear to be crimped, forked, or crosshatched close to the base."
+        "desc": "Tapinella panuoides, also known as oyster rollrim, and as fan pax from its former binomial Paxillus panuoides, is a fungus species in the genus Tapinella.\nAtromentin is a phenolic compound. The first enzymes in its biosynthesis have been characterised in T. panuoides.\nDespite its pleasant taste, the species is poisonous. In North America it can be confused with poisonous western jack o'lanterns, edible chanterelle mushrooms, false chanterelles (Hygrophoropsis aurantiaca), Crepidotus, or Phyllotopsis.\nIt grows on wood or in \"lignin-rich humus,\" has little or no stalk where it emerges from the substrate, and the gills appear to be crimped, forked, or crosshatched close to the base."
     },
     {
         "species": "Deconica horizontalis",
@@ -3299,7 +3299,7 @@
         "family": "Hygrophoraceae",
         "genus": "Hygrocybe",
         "commonName": "Persistent Waxcap",
-        "desc": "This is an incomplete list of species in the genus Hygrocybe. The genus has a widespread distribution and contains about 150 species.\n\nHygrocybe acutoconica - persistent waxcap (Europe, North America)\nHygrocybe albomarginata - (Puerto Rico)\nHygrocybe andersonii - gulfshore waxcap (southeast United States)\nHygrocybe anomala - (Australia)\nHygrocybe aphylla - (Ecuador)\nHygrocybe appalachianensis - Appalachian waxy cap (eastern United States)\nHygrocybe astatogala - (Australia, Madagascar, Central Africa, Philippines)\nHygrocybe aurantiosplendens - orange waxcap (Europe, North America)\nHygrocybe aurantipes  - (Australia)\nHygrocybe austrolutea - (Australia)\nHygrocybe austropratensis - (Australia)\nHygrocybe batesii - (Australia)\nHygrocybe batistae - (Puerto Rico)\nHygrocybe bolensis - (Australia)\nHygrocybe boothii - (Australia)\nHygrocybe brunneosquamosa - (Puerto Rico)\nHygrocybe calciphila - limestone waxcap (Europe)\nHygrocybe cantharellus - (North America)\nHygrocybe ceracea - butter waxcap (Europe)\nHygrocybe chloochlora - (Puerto Rico)\nHygrocybe chlorophana - golden waxcap (Europe, North America, northern Asia)\nHygrocybe cinereofirma - (Puerto Rico)\nHygrocybe citrinovirens - citrine waxcap (Europe)\nHygrocybe coccinea - scarlet waxcap or scarlet hood (Europe, North America, Australia)\nHygrocybe coccineocrenata - bog waxcap (Europe)\nHygrocybe collucera (Australia)\nHygrocybe conica - blackening waxcap or witch's hat (Europe, North America, Australia)\nHygrocybe conicoides - dune waxcap (Europe)\nHygrocybe constrictospora - hourglass waxcap (Europe)\nHygrocybe corsica - (France)\nHygrocybe debilipes - (China)\nHygrocybe erythrocala - (Australia)\nHygrocybe flavescens - (North America)\nHygrocybe flavifolia - (North America)\nHygrocybe flavocampanulata - (Puerto Rico, Trinidad)\nHygrocybe fuhreri - (Australia)\nHygrocybe fulgens - (Slovakia)\nHygrocybe glutinipes - glutinous waxcap (Europe)\nHygrocybe griseonigricans - (China)\nHygrocybe griseoramosa - (Australia)\nHygrocybe helobia - garlic waxcap (Europe)\nHygrocybe hypohaemacta - (Jamaica, U.S. Virgin Islands)\nHygrocybe insipida - spangle waxcap (Europe)\nHygrocybe intermedia - fibrous waxcap (Europe)\nHygrocybe kula - (Australia)\nHygrocybe laetissima - cherry-red waxy cap (North America)\nHygrocybe lanecovensis - (Australia)\nHygrocybe laboyi - (Puerto Rico)\nHygrocybe lepida - goblet waxcap (Europe)\nHygrocybe manadukaensis - (Western Ghats, India)\nHygrocybe miniata- vermilion waxcap (Europe)\nHygrocybe miniatofirma - (Puerto Rico)\nHygrocybe monscaiensis - (Spain)\nHygrocybe mucronella - bitter waxcap (Europe)\nHygrocybe natarajanii - (India)\nHygrocybe neofirma - (Puerto Rico, Guadeloupe)\nHygrocybe noelokelani - (Hawaii)\nHygrocybe olivaceofirma - (Puerto Rico)\nHygrocybe pakelo - (Hawaii)\nHygrocybe phaeococcinea - shadowed waxcap (Europe)\nHygrocybe prieta - (Puerto Rico)\nHygrocybe procera - red waxcap (New Zealand)\nHygrocybe punicea - crimson waxcap (Europe, North America?)\nHygrocybe quieta - oily waxcap (Europe)\nHygrocybe reesiae - (Australia)\nHygrocybe reidii - honey waxcap (Europe, North America?)\nHygrocybe rhodophylla- (Italy)\nHygrocybe rubida - (India)\nHygrocybe rubroconica - (China)\nHygrocybe salicis-herbaceae - mountain waxcap (Europe)\nHygrocybe saltirivula - (Australia)\nHygrocybe spadicea - date waxcap (Europe)\nHygrocybe splendidissima - splendid waxcap (Europe)\nHygrocybe striatella - (Chile)\nHygrocybe subpapillata - papillate waxcap (Europe)\nHygrocybe substrangulata - waisted waxcap (Europe)\nHygrocybe turunda - singed waxcap (Europe)\nHygrocybe umbilicata - (Bangladesh)\nHygrocybe trinitensis - (Puerto Rico)\nHygrocybe virescens - lime-green waxy cap (North America)"
+        "desc": ""
     },
     {
         "species": "Amphilogia gyrosa",
@@ -3689,7 +3689,7 @@
         "family": "Cladoniaceae",
         "genus": "Cladonia",
         "commonName": "Common Powderhorn",
-        "desc": "Cladonia coniocraea, commonly known as the common powderhorn or the powderhorn cup lichen, is a species of fruticose, cup lichen in the family Cladoniaceae. It was first described by  Heinrich Gustav Fl\u00f6rke in 1821 under the name Cenomyce coniocraea, until Kurt Polycarp Joachim Sprengel reclassified it under the genus Cladonia in 1827.\nAs of July 2021, its conservation status has not been estimated by the IUCN. In Iceland, its conservation status is denoted as data deficient (DD).\n\n"
+        "desc": "Cladonia coniocraea, commonly known as the common powderhorn or the powderhorn cup lichen, is a species of fruticose, cup lichen in the family Cladoniaceae. It was first described by  Heinrich Gustav Fl\u00f6rke in 1821 under the name Cenomyce coniocraea, until Kurt Polycarp Joachim Sprengel reclassified it under the genus Cladonia in 1827.\nAs of July 2021, its conservation status has not been estimated by the IUCN. In Iceland, its conservation status is denoted as data deficient (DD)."
     },
     {
         "species": "Agrocybe pediades",
@@ -3949,7 +3949,7 @@
         "family": "Cladoniaceae",
         "genus": "Cladonia",
         "commonName": "Cladonia foliacea",
-        "desc": "Cladonia foliacea is a species of lichen belonging to the family Cladoniaceae.\nIt has a cosmopolitan distribution."
+        "desc": "Cladonia foliacea is a species of lichen belonging to the family Cladoniaceae. It has a cosmopolitan distribution."
     },
     {
         "species": "Irpiciporus pachyodon",
@@ -3962,7 +3962,7 @@
         "family": "Meruliaceae",
         "genus": "Irpiciporus",
         "commonName": "Irpiciporus mollis",
-        "desc": "Irpiciporus pachyodon is a species of fungus belonging to the family Polyporaceae.\nIt has cosmopolitan distribution.\nSynonym:\n\nSpongipellis pachyodon"
+        "desc": "Irpiciporus pachyodon is a species of fungus belonging to the family Polyporaceae. It has cosmopolitan distribution."
     },
     {
         "species": "Phylloscypha phyllogena",
@@ -4313,7 +4313,7 @@
         "family": "Parmeliaceae",
         "genus": "Evernia",
         "commonName": "Boreal Oakmoss",
-        "desc": "Evernia mesomorpha is a species of lichen belonging to the family Parmeliaceae.\nIt has a cosmopolitan distribution."
+        "desc": "Evernia mesomorpha is a species of lichen belonging to the family Parmeliaceae. It has a cosmopolitan distribution."
     },
     {
         "species": "Ischnoderma resinosum",
@@ -4443,7 +4443,7 @@
         "family": "Capnodiaceae",
         "genus": "Scorias",
         "commonName": "Honeydew Eater",
-        "desc": "Scorias spongiosa is a sooty mold fungus that grows on aphid honeydew. It is a member of the Capnodiaceae family of ascomycete fungi. It is found only on American beech trees, Fagus grandifolia.\n\n"
+        "desc": "Scorias spongiosa is a sooty mold fungus that grows on aphid honeydew. It is a member of the Capnodiaceae family of ascomycete fungi. It is found only on American beech trees, Fagus grandifolia."
     },
     {
         "species": "Exidia nigricans",
@@ -4456,7 +4456,7 @@
         "family": "Auriculariaceae",
         "genus": "Exidia",
         "commonName": "Warlock's Butter",
-        "desc": "Exidia nigricans is a species of fungus in the family Auriculariaceae. In the UK, it has the recommended English name of warlock's butter. It produces black, gelatinous basidiocarps (fruit bodies) and is a common, wood-rotting species throughout the Northern Hemisphere, typically growing on dead attached branches of broadleaf trees. It has been much confused with Exidia glandulosa.\n\n"
+        "desc": "Exidia nigricans is a species of fungus in the family Auriculariaceae. In the UK, it has the recommended English name of warlock's butter. It produces black, gelatinous basidiocarps (fruit bodies) and is a common, wood-rotting species throughout the Northern Hemisphere, typically growing on dead attached branches of broadleaf trees. It has been much confused with Exidia glandulosa."
     },
     {
         "species": "Irpex lacteus",
@@ -4469,7 +4469,7 @@
         "family": "Irpicaceae",
         "genus": "Irpex",
         "commonName": "Milk-white Toothed Polypore",
-        "desc": "Irpex lacteus is a common crust fungus distributed throughout temperate areas of the world. It is the type of the genus Irpex. Irpex lacteus is considered a polypore, but depending on growth conditions it can also produce a hydnoid hymenophore. Due to this variability and abundance of the species it has been described as a new species to science numerous times and subsequently has an extensive synonymy. The complete genome sequence of Irpex lacteus was reported in 2017.\nIrpex lacteus is a white-rot fungus that inhabits mainly angiosperm branches and trunks. It is one of the most common wood-rotting fungi for instance in urban North America. It is inedible. The fungus has been identified as a cause of pulmonary infections in immuno-compromised humans."
+        "desc": "Irpex lacteus is a common crust fungus distributed throughout temperate areas of the world. It is the type of the genus Irpex. Irpex lacteus is considered a polypore, but depending on growth conditions it can also produce a hydnoid hymenophore. Due to this variability and abundance of the species it has been described as a new species to science numerous times and subsequently has an extensive synonymy. The complete genome sequence of Irpex lacteus was reported in 2017. Irpex lacteus is a white-rot fungus that inhabits mainly angiosperm branches and trunks. It is one of the most common wood-rotting fungi for instance in urban North America. It is inedible. The fungus has been identified as a cause of pulmonary infections in immuno-compromised humans."
     },
     {
         "species": "Aseroe rubra",
@@ -4534,7 +4534,7 @@
         "family": "Gomphaceae",
         "genus": "Turbinellus",
         "commonName": "Scaly Chanterelle",
-        "desc": "Turbinellus floccosus, commonly known as the scaly vase, or sometimes the shaggy, scaly, or woolly chanterelle, is a cantharelloid mushroom of the family Gomphaceae native to Asia and North America. It was known as Gomphus floccosus until 2011, when it was found to be only distantly related to the genus's type species, G. clavatus. It was consequently transferred from Gomphus to Turbinellus. The orange-capped vase- or trumpet-shaped fruiting bodies may reach 30 cm (12 in) high and 30 cm (12 in) wide. The lower surface, the hymenium, is covered in wrinkles and ridges rather than gills or pores, and is pale buff or yellowish to whitish.\nT. floccosus forms symbiotic (ectomycorrhizal) relationships with various types of conifer, growing in coniferous woodlands across Eastern Asia, from North Korea to Pakistan, and in North America, more frequently in the west, in late summer and autumn. Though mild-tasting, they generally cause gastrointestinal symptoms of nausea, vomiting and diarrhoea when consumed. T. floccosus is eaten by local people in northeastern India, Nepal and Mexico."
+        "desc": "Turbinellus floccosus, commonly known as the scaly vase, or sometimes the shaggy, scaly, or woolly chanterelle, is a cantharelloid mushroom of the family Gomphaceae native to Asia and North America. It was known as Gomphus floccosus until 2011, when it was found to be only distantly related to the genus's type species, G. clavatus. It was consequently transferred from Gomphus to Turbinellus. The orange-capped vase- or trumpet-shaped fruiting bodies may reach 30 cm (12 in) high and 30 cm (12 in) wide. The lower surface, the hymenium, is covered in wrinkles and ridges rather than gills or pores, and is pale buff or yellowish to whitish. T. floccosus forms symbiotic (ectomycorrhizal) relationships with various types of conifer, growing in coniferous woodlands across Eastern Asia, from North Korea to Pakistan, and in North America, more frequently in the west, in late summer and autumn. Though mild-tasting, they generally cause gastrointestinal symptoms of nausea, vomiting and diarrhoea when consumed. T. floccosus is eaten by local people in northeastern India, Nepal and Mexico."
     },
     {
         "species": "Hemileccinum subglabripes",
@@ -4911,7 +4911,7 @@
         "family": "Cladoniaceae",
         "genus": "Cladonia",
         "commonName": "Gritty British soldiers lichen",
-        "desc": "Cladonia alpina (Swedish: Gaffelb\u00e4garlav) is a species of fruticose lichen that is in the family Cladoniaceae. It has been found in Japan, Norway, and the United Kingdom.\nMolecular phylogenetic analysis indicates that Cladonia alpina is a member of the Erythrocarpae: Subglaucescentes clade, a group of species including  C. floerkeana, C. macilenta and C. polydactyla. Although the presence of porphyrilic acid has been claimed to be diagnostic for this species, some non-European collections lack this substance.\n\n"
+        "desc": "Cladonia alpina (Swedish: Gaffelb\u00e4garlav) is a species of fruticose lichen that is in the family Cladoniaceae. It has been found in Japan, Norway, and the United Kingdom.\nMolecular phylogenetic analysis indicates that Cladonia alpina is a member of the Erythrocarpae: Subglaucescentes clade, a group of species including  C. floerkeana, C. macilenta and C. polydactyla. Although the presence of porphyrilic acid has been claimed to be diagnostic for this species, some non-European collections lack this substance."
     },
     {
         "species": "Suillus grevillei",
@@ -4963,7 +4963,7 @@
         "family": "Physalacriaceae",
         "genus": "Desarmillaria",
         "commonName": "Ringless Honey Mushroom",
-        "desc": "Desarmillaria is a genus of fungi belonging to the family Physalacriaceae.\nThe genus has almost cosmopolitan distribution.\nSpecies:\n\nDesarmillaria ectypa (Fr.) R.A.Koch & Aime\nDesarmillaria tabescens (Scop.) R.A.Koch & Aime\nDesarmillaria caespitosa"
+        "desc": "Desarmillaria is a genus of fungi belonging to the family Physalacriaceae. The genus has almost cosmopolitan distribution."
     },
     {
         "species": "Herpothallon rubrocinctum",
@@ -5028,7 +5028,7 @@
         "family": "Panaceae",
         "genus": "Cymatoderma",
         "commonName": "leathery goblet",
-        "desc": "Cymatoderma elegans is a fungus species in the genus Cymatoderma. The type specimen was found on at 4,000 m (13,000 ft) on Mount Panggerangi, on Java Island, Indonesia.\n\nName brought to synonymy\nCymatoderma elegans subsp. infundibuliforme (Klotzsch) Boidin 1960, a synonym of Cymatoderma infundibuliforme"
+        "desc": "Cymatoderma elegans is a fungus species in the genus Cymatoderma. The type specimen was found on at 4,000 m (13,000 ft) on Mount Panggerangi, on Java Island, Indonesia."
     },
     {
         "species": "Amanita xanthocephala",
@@ -5197,7 +5197,7 @@
         "family": "Cladoniaceae",
         "genus": "Cladonia",
         "commonName": "British soldier lichen",
-        "desc": "Cladonia cristatella, commonly known as the British soldiers lichen or the British soldiers cup lichen, is a fruticose, cup lichen belonging to the family Cladoniaceae. The species was first described scientifically by American botanist Edward Tuckerman in 1858.\n\n"
+        "desc": "Cladonia cristatella, commonly known as the British soldiers lichen or the British soldiers cup lichen, is a fruticose, cup lichen belonging to the family Cladoniaceae. The species was first described scientifically by American botanist Edward Tuckerman in 1858."
     },
     {
         "species": "Cortinarius violaceus",
@@ -5210,7 +5210,7 @@
         "family": "Cortinariaceae",
         "genus": "Cortinarius",
         "commonName": "violet webcap",
-        "desc": "Cortinarius violaceus, commonly known as the violet webcap or violet cort, is a fungus in the webcap genus Cortinarius native across the Northern Hemisphere. The fruit bodies are dark purple mushrooms with caps up to 15 cm (6 in) across, sporting gills underneath. The stalk measures 6 to 12 centimetres (2+1\u20443 to 4+2\u20443 in) by 1 to 2 cm (3\u20448 to 3\u20444 in), sometimes with a thicker base. The dark flesh has a smell reminiscent of cedar wood. Forming symbiotic (ectomycorrhizal) relationships with the roots of various plant species, C. violaceus is found predominantly in conifer forests in North America and deciduous forests in Europe.\nThough they are sometimes described as edible, the appearance of these mushrooms is more distinctive than their taste. The species was first described by Carl Linnaeus in 1753, and has undergone several name changes. It is the type species of the genus Cortinarius, but is readily distinguished from other species in the genus by its dark colouration and distinct cystidia. There are some populations that seem to prefer deciduous trees and others that prefer pines, but no genetic divergence between the two has been found. When identified as taxonomically separate from the deciduous-preferring populations, the pine-preferring populations have been referred to either as a separate species, C. hercynicus, or as a subspecies, C. violaceus ssp. hercynicus. Other populations once identified as C. violaceus or close to that species have now been described as new and separate species, such as C. palatinus, C. neotropicus, C. altissimus, C. kioloensis and C. hallowellensis.\n\n"
+        "desc": "Cortinarius violaceus, commonly known as the violet webcap or violet cort, is a fungus in the webcap genus Cortinarius native across the Northern Hemisphere. The fruit bodies are dark purple mushrooms with caps up to 15 cm (6 in) across, sporting gills underneath. The stalk measures 6 to 12 centimetres (2+1\u20443 to 4+2\u20443 in) by 1 to 2 cm (3\u20448 to 3\u20444 in), sometimes with a thicker base. The dark flesh has a smell reminiscent of cedar wood. Forming symbiotic (ectomycorrhizal) relationships with the roots of various plant species, C. violaceus is found predominantly in conifer forests in North America and deciduous forests in Europe.\nThough they are sometimes described as edible, the appearance of these mushrooms is more distinctive than their taste. The species was first described by Carl Linnaeus in 1753, and has undergone several name changes. It is the type species of the genus Cortinarius, but is readily distinguished from other species in the genus by its dark colouration and distinct cystidia. There are some populations that seem to prefer deciduous trees and others that prefer pines, but no genetic divergence between the two has been found. When identified as taxonomically separate from the deciduous-preferring populations, the pine-preferring populations have been referred to either as a separate species, C. hercynicus, or as a subspecies, C. violaceus ssp. hercynicus. Other populations once identified as C. violaceus or close to that species have now been described as new and separate species, such as C. palatinus, C. neotropicus, C. altissimus, C. kioloensis and C. hallowellensis."
     },
     {
         "species": "Vitreoporus dichrous",
@@ -5314,7 +5314,7 @@
         "family": "Bolbitiaceae",
         "genus": "Panaeolus",
         "commonName": "Panaeolus antillarum",
-        "desc": "Panaeolus antillarum is a species of mushroom in the family Bolbitiaceae. It is edible but not commonly eaten. It is found from northern North America through Mexico into northern South America.\nIt is often mistaken for Panaeolus semiovatus var. phalaenarum or Panaeolus cyanescens, the latter species can be distinguished by the thinner, grayer cap and blue bruising.\n\n"
+        "desc": "Panaeolus antillarum is a species of mushroom in the family Bolbitiaceae. It is edible but not commonly eaten. It is found from northern North America through Mexico into northern South America.\nIt is often mistaken for Panaeolus semiovatus var. phalaenarum or Panaeolus cyanescens, the latter species can be distinguished by the thinner, grayer cap and blue bruising."
     },
     {
         "species": "Lentinus brumalis",
@@ -5470,7 +5470,7 @@
         "family": "Sphaerophoraceae",
         "genus": "Sphaerophorus",
         "commonName": "Tuckerman's Coral Lichen",
-        "desc": "Sphaerophorus globosus is a species of lichen belonging to the family Sphaerophoraceae.\nIt has cosmopolitan distribution."
+        "desc": "Sphaerophorus globosus is a species of lichen belonging to the family Sphaerophoraceae. It has cosmopolitan distribution."
     },
     {
         "species": "Pseudoclitocybe cyathiformis",
@@ -5561,7 +5561,7 @@
         "family": "Sarcosomataceae",
         "genus": "Urnula",
         "commonName": "devil's urn",
-        "desc": "Urnula craterium is a species of cup fungus in the family Sarcosomataceae. Appearing in early spring, its distinctive goblet-shaped and dark-colored fruit bodies have earned it the common names crater cup, devil's urn and the gray urn. The asexual (imperfect), or conidial stage of U. craterium is a plant pathogen known as Conoplea globosa, which causes a canker disease of oak and several other hardwood tree species.\nUrnula craterium is parasitic on oak and various other hardwoods; it is also saprobic, as the fruit bodies develop on fallen dead wood. The species is distributed in eastern North America, Europe, and Asia. It produces bioactive compounds that can inhibit the growth of other fungi.\n\n"
+        "desc": "Urnula craterium is a species of cup fungus in the family Sarcosomataceae. Appearing in early spring, its distinctive goblet-shaped and dark-colored fruit bodies have earned it the common names crater cup, devil's urn and the gray urn. The asexual (imperfect), or conidial stage of U. craterium is a plant pathogen known as Conoplea globosa, which causes a canker disease of oak and several other hardwood tree species.\nUrnula craterium is parasitic on oak and various other hardwoods; it is also saprobic, as the fruit bodies develop on fallen dead wood. The species is distributed in eastern North America, Europe, and Asia. It produces bioactive compounds that can inhibit the growth of other fungi."
     },
     {
         "species": "Mycosphaerella colorata",
@@ -5899,7 +5899,7 @@
         "family": "Polyporaceae",
         "genus": "Poronidulus",
         "commonName": "little nest polypore",
-        "desc": "Poronidulus is a fungal genus in the family Polyporaceae. It is a monotypic genus, and contains the single polypore species Poronidulus conchifer, found in North America. The genus was circumscribed by American mycologist William Alphonso Murrill in 1904. The generic name, which combines the Ancient Greek word \u03c0\u03cc\u03c1\u03bf\u03c2 (\"pore\") with the Latin word nidulus (\"small nest\"), refers to the superficial similarity of the cup-shaped Poronidulus fruit bodies with those of the genus Nidularia. A second species, Poronidulus bivalvis, found in Bogor, was placed in the genus by Franz Xaver Rudolf von H\u00f6hnel in 1914. The actual identity of this taxon, however, is uncertain.\n\n"
+        "desc": "Poronidulus is a fungal genus in the family Polyporaceae. It is a monotypic genus, and contains the single polypore species Poronidulus conchifer, found in North America. The genus was circumscribed by American mycologist William Alphonso Murrill in 1904. The generic name, which combines the Ancient Greek word \u03c0\u03cc\u03c1\u03bf\u03c2 (\"pore\") with the Latin word nidulus (\"small nest\"), refers to the superficial similarity of the cup-shaped Poronidulus fruit bodies with those of the genus Nidularia. A second species, Poronidulus bivalvis, found in Bogor, was placed in the genus by Franz Xaver Rudolf von H\u00f6hnel in 1914. The actual identity of this taxon, however, is uncertain."
     },
     {
         "species": "Lecidella elaeochroma",
@@ -5912,7 +5912,7 @@
         "family": "Lecanoraceae",
         "genus": "Lecidella",
         "commonName": "Lecidella lichen",
-        "desc": "Lecidella elaeochroma is a species of fungus belonging to the family Lecanoraceae.\nIt has cosmopolitan distribution."
+        "desc": "Lecidella elaeochroma is a species of fungus belonging to the family Lecanoraceae. It has cosmopolitan distribution."
     },
     {
         "species": "Pluteus cervinus",
@@ -12307,7 +12307,7 @@
         "order": "Boletales",
         "family": "Gomphidiaceae",
         "genus": "Chroogomphus",
-        "commonName": "Subspecies Chroogomphus vinicolor californicus",
+        "commonName": "",
         "desc": "Chroogomphus vinicolor, commonly known as the wine-cap Chroogomphus or the pine spike, is a species of mushroom in the family Gomphidiaceae. Found in North America and the Dominican Republic, mushrooms grow on the ground under pine trees. Fruit bodies have reddish-brown, shiny caps atop tapered stems. The gills are thick, initially pale orange before turning blackish, and extend a short way down the length of the stem. Although the mushroom is edible, and sold in local markets in Mexico, it is not highly rated. Distinguishing this species from some other similar Chroogomphus species is difficult, as their morphology is similar, and cap coloration is too variable to be a reliable characteristic. C. vinicolor is differentiated from the European C. rutilus and the North American C. ochraceus by the thickness of its cystidial walls."
     },
     {

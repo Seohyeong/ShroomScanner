@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+extension String {
+    func capFirstLetter() -> String {
+        return self.split(separator: " ")
+            .map { $0.prefix(1).uppercased() + $0.dropFirst().lowercased() }
+            .joined(separator: " ")
+    }
+}

@@ -8,11 +8,24 @@
 import SwiftUI
 
 struct ShroomRow: View {
+    var shroom: Shroom
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        HStack{
+            Image(shroom.species)
+                .resizable()
+                .frame(width: 50, height: 50)
+            
+            Text(shroom.species.capFirstLetter())
+            
+            Spacer()
+        }
     }
 }
 
 #Preview {
-    ShroomRow()
+    Group{
+        ShroomRow(shroom: shrooms[0])
+        ShroomRow(shroom: shrooms[1])
+    }
 }

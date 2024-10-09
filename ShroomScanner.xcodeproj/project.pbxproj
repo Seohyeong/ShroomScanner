@@ -7,18 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D0106DD2CAFC8B400C1A820 /* ShroomList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0106DC2CAFC8B400C1A820 /* ShroomList.swift */; };
+		4D0106E02CAFC8F800C1A820 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0106DF2CAFC8F800C1A820 /* ModelData.swift */; };
+		4D0106E22CAFC93000C1A820 /* Shroom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0106E12CAFC93000C1A820 /* Shroom.swift */; };
+		4D0106E62CAFF88600C1A820 /* ShroomRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0106E52CAFF88600C1A820 /* ShroomRow.swift */; };
+		4D0106E82CB09C7F00C1A820 /* meta.json in Resources */ = {isa = PBXBuildFile; fileRef = 4D0106E72CB09C7F00C1A820 /* meta.json */; };
+		4D0106EA2CB09E3B00C1A820 /* ShroomDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0106E92CB09E3B00C1A820 /* ShroomDetail.swift */; };
+		4D0106EC2CB09F2D00C1A820 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0106EB2CB09F2D00C1A820 /* CircleImage.swift */; };
+		4D0106EE2CB1289C00C1A820 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0106ED2CB1289C00C1A820 /* Utils.swift */; };
 		4D8B45DA2C7C312B002F55BA /* ShroomScannerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45D92C7C312B002F55BA /* ShroomScannerApp.swift */; };
-		4D8B45DC2C7C312B002F55BA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45DB2C7C312B002F55BA /* ContentView.swift */; };
+		4D8B45DC2C7C312B002F55BA /* ShroomScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45DB2C7C312B002F55BA /* ShroomScannerView.swift */; };
 		4D8B45DE2C7C312D002F55BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D8B45DD2C7C312D002F55BA /* Assets.xcassets */; };
 		4D8B45E12C7C312D002F55BA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D8B45E02C7C312D002F55BA /* Preview Assets.xcassets */; };
+		4D8B45E82C7C325A002F55BA /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45E72C7C325A002F55BA /* ImagePicker.swift */; };
+		4D8B45EA2C7C5F33002F55BA /* Classifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45E92C7C5F33002F55BA /* Classifier.swift */; };
+		4D8B45EC2C7C5FA0002F55BA /* mobilenet_v2_original.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45EB2C7C5FA0002F55BA /* mobilenet_v2_original.mlmodel */; };
+		4D8B45EE2C7C60F6002F55BA /* ImageClassifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45ED2C7C60F6002F55BA /* ImageClassifier.swift */; };
+		4D923A492CB502DB00C9F9FE /* mobilenet_v2_finetuned.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 4D923A482CB502DB00C9F9FE /* mobilenet_v2_finetuned.mlpackage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D0106DC2CAFC8B400C1A820 /* ShroomList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShroomList.swift; sourceTree = "<group>"; };
+		4D0106DF2CAFC8F800C1A820 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		4D0106E12CAFC93000C1A820 /* Shroom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shroom.swift; sourceTree = "<group>"; };
+		4D0106E52CAFF88600C1A820 /* ShroomRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShroomRow.swift; sourceTree = "<group>"; };
+		4D0106E72CB09C7F00C1A820 /* meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = meta.json; sourceTree = "<group>"; };
+		4D0106E92CB09E3B00C1A820 /* ShroomDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShroomDetail.swift; sourceTree = "<group>"; };
+		4D0106EB2CB09F2D00C1A820 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		4D0106ED2CB1289C00C1A820 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		4D8B45D62C7C312B002F55BA /* ShroomScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShroomScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D8B45D92C7C312B002F55BA /* ShroomScannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShroomScannerApp.swift; sourceTree = "<group>"; };
-		4D8B45DB2C7C312B002F55BA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4D8B45DB2C7C312B002F55BA /* ShroomScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShroomScannerView.swift; sourceTree = "<group>"; };
 		4D8B45DD2C7C312D002F55BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D8B45E02C7C312D002F55BA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4D8B45E72C7C325A002F55BA /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		4D8B45E92C7C5F33002F55BA /* Classifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classifier.swift; sourceTree = "<group>"; };
+		4D8B45EB2C7C5FA0002F55BA /* mobilenet_v2_original.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = mobilenet_v2_original.mlmodel; sourceTree = "<group>"; };
+		4D8B45ED2C7C60F6002F55BA /* ImageClassifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClassifier.swift; sourceTree = "<group>"; };
+		4D923A482CB502DB00C9F9FE /* mobilenet_v2_finetuned.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = mobilenet_v2_finetuned.mlpackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +58,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4D0106DA2CAFC84B00C1A820 /* MLModel */ = {
+			isa = PBXGroup;
+			children = (
+				4D8B45EB2C7C5FA0002F55BA /* mobilenet_v2_original.mlmodel */,
+				4D923A482CB502DB00C9F9FE /* mobilenet_v2_finetuned.mlpackage */,
+				4D8B45E92C7C5F33002F55BA /* Classifier.swift */,
+				4D8B45ED2C7C60F6002F55BA /* ImageClassifier.swift */,
+			);
+			path = MLModel;
+			sourceTree = "<group>";
+		};
+		4D0106DB2CAFC88300C1A820 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				4D8B45DB2C7C312B002F55BA /* ShroomScannerView.swift */,
+				4D0106DC2CAFC8B400C1A820 /* ShroomList.swift */,
+				4D0106E92CB09E3B00C1A820 /* ShroomDetail.swift */,
+				4D0106E52CAFF88600C1A820 /* ShroomRow.swift */,
+				4D0106EB2CB09F2D00C1A820 /* CircleImage.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		4D0106DE2CAFC8E300C1A820 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4D0106DF2CAFC8F800C1A820 /* ModelData.swift */,
+				4D0106E12CAFC93000C1A820 /* Shroom.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		4D8B45CD2C7C312B002F55BA = {
 			isa = PBXGroup;
 			children = (
@@ -52,7 +110,12 @@
 			isa = PBXGroup;
 			children = (
 				4D8B45D92C7C312B002F55BA /* ShroomScannerApp.swift */,
-				4D8B45DB2C7C312B002F55BA /* ContentView.swift */,
+				4D8B45E72C7C325A002F55BA /* ImagePicker.swift */,
+				4D0106E72CB09C7F00C1A820 /* meta.json */,
+				4D0106ED2CB1289C00C1A820 /* Utils.swift */,
+				4D0106DB2CAFC88300C1A820 /* Views */,
+				4D0106DE2CAFC8E300C1A820 /* Model */,
+				4D0106DA2CAFC84B00C1A820 /* MLModel */,
 				4D8B45DD2C7C312D002F55BA /* Assets.xcassets */,
 				4D8B45DF2C7C312D002F55BA /* Preview Content */,
 			);
@@ -125,6 +188,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D0106E82CB09C7F00C1A820 /* meta.json in Resources */,
 				4D8B45E12C7C312D002F55BA /* Preview Assets.xcassets in Resources */,
 				4D8B45DE2C7C312D002F55BA /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +201,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D8B45DC2C7C312B002F55BA /* ContentView.swift in Sources */,
+				4D8B45EA2C7C5F33002F55BA /* Classifier.swift in Sources */,
+				4D0106E62CAFF88600C1A820 /* ShroomRow.swift in Sources */,
+				4D923A492CB502DB00C9F9FE /* mobilenet_v2_finetuned.mlpackage in Sources */,
+				4D0106EE2CB1289C00C1A820 /* Utils.swift in Sources */,
+				4D0106EC2CB09F2D00C1A820 /* CircleImage.swift in Sources */,
+				4D0106E02CAFC8F800C1A820 /* ModelData.swift in Sources */,
+				4D8B45E82C7C325A002F55BA /* ImagePicker.swift in Sources */,
+				4D8B45DC2C7C312B002F55BA /* ShroomScannerView.swift in Sources */,
+				4D8B45EC2C7C5FA0002F55BA /* mobilenet_v2_original.mlmodel in Sources */,
+				4D8B45EE2C7C60F6002F55BA /* ImageClassifier.swift in Sources */,
+				4D0106EA2CB09E3B00C1A820 /* ShroomDetail.swift in Sources */,
 				4D8B45DA2C7C312B002F55BA /* ShroomScannerApp.swift in Sources */,
+				4D0106DD2CAFC8B400C1A820 /* ShroomList.swift in Sources */,
+				4D0106E22CAFC93000C1A820 /* Shroom.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +350,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"ShroomScanner/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -302,6 +379,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"ShroomScanner/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
