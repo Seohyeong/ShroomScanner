@@ -24,6 +24,10 @@
 		4D8B45EC2C7C5FA0002F55BA /* mobilenet_v2_original.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45EB2C7C5FA0002F55BA /* mobilenet_v2_original.mlmodel */; };
 		4D8B45EE2C7C60F6002F55BA /* ImageClassifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B45ED2C7C60F6002F55BA /* ImageClassifier.swift */; };
 		4D923A492CB502DB00C9F9FE /* mobilenet_v2_finetuned.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 4D923A482CB502DB00C9F9FE /* mobilenet_v2_finetuned.mlpackage */; };
+		4D923A4D2CB61C5900C9F9FE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4D923A4C2CB61C5900C9F9FE /* README.md */; };
+		4D923A522CB61F0D00C9F9FE /* screen_2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4D923A4F2CB61F0D00C9F9FE /* screen_2.jpeg */; };
+		4D923A532CB61F0D00C9F9FE /* screen_3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4D923A502CB61F0D00C9F9FE /* screen_3.jpeg */; };
+		4D923A542CB61F0D00C9F9FE /* screen_1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4D923A512CB61F0D00C9F9FE /* screen_1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +49,10 @@
 		4D8B45EB2C7C5FA0002F55BA /* mobilenet_v2_original.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = mobilenet_v2_original.mlmodel; sourceTree = "<group>"; };
 		4D8B45ED2C7C60F6002F55BA /* ImageClassifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClassifier.swift; sourceTree = "<group>"; };
 		4D923A482CB502DB00C9F9FE /* mobilenet_v2_finetuned.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = mobilenet_v2_finetuned.mlpackage; sourceTree = "<group>"; };
+		4D923A4C2CB61C5900C9F9FE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4D923A4F2CB61F0D00C9F9FE /* screen_2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = screen_2.jpeg; sourceTree = "<group>"; };
+		4D923A502CB61F0D00C9F9FE /* screen_3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = screen_3.jpeg; sourceTree = "<group>"; };
+		4D923A512CB61F0D00C9F9FE /* screen_1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = screen_1.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +101,8 @@
 		4D8B45CD2C7C312B002F55BA = {
 			isa = PBXGroup;
 			children = (
+				4D923A4C2CB61C5900C9F9FE /* README.md */,
+				4D923A4E2CB61EAC00C9F9FE /* resources */,
 				4D8B45D82C7C312B002F55BA /* ShroomScanner */,
 				4D8B45D72C7C312B002F55BA /* Products */,
 			);
@@ -128,6 +138,16 @@
 				4D8B45E02C7C312D002F55BA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4D923A4E2CB61EAC00C9F9FE /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				4D923A512CB61F0D00C9F9FE /* screen_1.jpeg */,
+				4D923A4F2CB61F0D00C9F9FE /* screen_2.jpeg */,
+				4D923A502CB61F0D00C9F9FE /* screen_3.jpeg */,
+			);
+			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -189,8 +209,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D0106E82CB09C7F00C1A820 /* meta.json in Resources */,
+				4D923A542CB61F0D00C9F9FE /* screen_1.jpeg in Resources */,
 				4D8B45E12C7C312D002F55BA /* Preview Assets.xcassets in Resources */,
+				4D923A4D2CB61C5900C9F9FE /* README.md in Resources */,
+				4D923A522CB61F0D00C9F9FE /* screen_2.jpeg in Resources */,
 				4D8B45DE2C7C312D002F55BA /* Assets.xcassets in Resources */,
+				4D923A532CB61F0D00C9F9FE /* screen_3.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -348,6 +372,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ShroomScanner/Preview Content\"";
+				DEVELOPMENT_TEAM = HJ7T3KQ39D;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
@@ -377,6 +402,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ShroomScanner/Preview Content\"";
+				DEVELOPMENT_TEAM = HJ7T3KQ39D;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
