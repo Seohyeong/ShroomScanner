@@ -3,6 +3,13 @@
 
 MobileNetV2 Powered Mushroom Classification App!
 
+<style>
+    img {
+        border: none;
+    }
+</style>
+
+
 <table>
     <tr>
         <td><img src="https://github.com/Seohyeong/ShroomScanner/blob/main/resources/screen_1.jpeg" width="200"></td>
