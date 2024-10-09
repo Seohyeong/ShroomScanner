@@ -5,8 +5,8 @@ MobileNetV2 Powered Mushroom Classification App!
 
 <table>
     <tr>
-        <td><img src="resources/screen_1.png" width="200"></td>
-        <td><img src="resources/screen_2.png" width="200"></td>
-        <td><img src="resources/screen_3.png" width="200"></td>
+        <td><img src="https://github.com/Seohyeong/ShroomScanner/blob/main/resources/screen_1.jpeg" width="200"></td>
+        <td><img src="https://github.com/Seohyeong/ShroomScanner/blob/main/resources/screen_2.jpeg" width="200"></td>
+        <td><img src="https://github.com/Seohyeong/ShroomScanner/blob/main/resources/screen_3.jpeg" width="200"></td>
     </tr>
 </table>
