@@ -11,23 +11,14 @@ class ImageClassifier: ObservableObject {
     
     @Published private var classifier = Classifier()
     
-    var imageClass: String? {
-        classifier.results
-    }
+    var topPredictions: [Prediction] {
+            classifier.results
+        }
         
     func detect(uiImage: UIImage) {
         guard let ciImage = CIImage (image: uiImage) else { return }
         classifier.detect(ciImage: ciImage)
     }
-    
-    func eval(imagePaths: [String]) {
-        for path in imagePaths {
-            if let uiImage = UIImage(contentsOfFile: path) {
-                guard let ciImage = CIImage (image: uiImage) else { return }
-                classifier.detect(ciImage: ciImage)
-                // Optionally: store results for further analysis
-            }
-        }
-    }
+
 }
 

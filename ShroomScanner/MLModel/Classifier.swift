@@ -9,9 +9,15 @@ import CoreML
 import Vision
 import CoreImage
 
+struct Prediction: Identifiable {
+    let id: String
+    let confidence: Float
+    let probability: Float
+}
+
 struct Classifier {
     
-    private(set) var results: String?
+    private(set) var results: [Prediction] = []
     
     mutating func detect(ciImage: CIImage) {
         
@@ -30,11 +36,25 @@ struct Classifier {
             return
         }
         
-        if let firstResult = results.first {
-            self.results = firstResult.identifier
-        }
+        // apply softmax
+        let confidences = results.map { $0.confidence }
+        let probabilities = softmax(confidences)
         
+        let topResults = results.sorted { $0.confidence > $1.confidence }.prefix(3)
+        self.results = topResults.enumerated().map { index, observation in
+            Prediction(id: observation.identifier,
+                       confidence: observation.confidence,
+                       probability: probabilities[index])
+        }
     }
+    
+    
+    private func softmax(_ scores: [Float]) -> [Float] {
+            let maxScore = scores.max() ?? 0
+            let expScores = scores.map { exp($0 - maxScore) }
+            let sumExpScores = expScores.reduce(0, +)
+            return expScores.map { $0 / sumExpScores }
+        }
 }
 
 
