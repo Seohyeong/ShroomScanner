@@ -47,14 +47,6 @@ struct Classifier {
                        probability: probabilities[index])
         }
     }
-    
-    
-    private func softmax(_ scores: [Float]) -> [Float] {
-            let maxScore = scores.max() ?? 0
-            let expScores = scores.map { exp($0 - maxScore) }
-            let sumExpScores = expScores.reduce(0, +)
-            return expScores.map { $0 / sumExpScores }
-        }
 }
 
 

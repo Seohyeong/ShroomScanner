@@ -92,8 +92,9 @@
 		4D0106DE2CAFC8E300C1A820 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				4D0106DF2CAFC8F800C1A820 /* ModelData.swift */,
+				4D0106E72CB09C7F00C1A820 /* meta.json */,
 				4D0106E12CAFC93000C1A820 /* Shroom.swift */,
+				4D0106DF2CAFC8F800C1A820 /* ModelData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -121,7 +122,6 @@
 			children = (
 				4D8B45D92C7C312B002F55BA /* ShroomScannerApp.swift */,
 				4D8B45E72C7C325A002F55BA /* ImagePicker.swift */,
-				4D0106E72CB09C7F00C1A820 /* meta.json */,
 				4D0106ED2CB1289C00C1A820 /* Utils.swift */,
 				4D0106DB2CAFC88300C1A820 /* Views */,
 				4D0106DE2CAFC8E300C1A820 /* Model */,
