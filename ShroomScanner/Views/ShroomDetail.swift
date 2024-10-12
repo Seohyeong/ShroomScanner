@@ -26,7 +26,7 @@ struct ShroomDetail: View {
                         Text("also known as ")
                             .foregroundColor(.secondary) +
                         Text(shroom.commonName.capFirstLetter())
-                            .foregroundColor(.blue)
+                            .foregroundColor(Color("shroomPrimary"))
                     }
                 }
                 
@@ -72,6 +72,7 @@ struct ShroomDetail: View {
                 .padding()
                 .frame(maxWidth: .infinity, alignment: .trailing)
         }
+        .foregroundColor(Color("shroomGrey"))
     }
 }
 
@@ -85,7 +86,7 @@ struct TaxonomyRow: View {
                 .fontWeight(.bold)
             Spacer()
             Text(value)
-                .foregroundStyle(.secondary)
+                .foregroundStyle(Color("shroomSecondary"))
         }
     }
     

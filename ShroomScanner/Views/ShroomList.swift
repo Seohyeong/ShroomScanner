@@ -34,6 +34,7 @@ struct ShroomList: View {
                 }
             }
         }
+        .accentColor(Color("shroomPrimary"))
         .searchable(text: $searchText)
     }
     

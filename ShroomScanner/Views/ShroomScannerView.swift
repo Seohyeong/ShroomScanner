@@ -44,6 +44,7 @@ struct ShroomScannerView: View {
                 }
                 .padding()
                 .navigationTitle("ShroomAI")
+                .foregroundColor(Color("shroomGrey"))
             }
         }
     }
@@ -67,8 +68,8 @@ struct ShroomScannerView: View {
                     showShroomList = true
                 }
         }
+        .foregroundColor(Color("shroomGrey"))
         .font(.largeTitle)
-        .foregroundColor(.blue)
         .padding(.top, -30)
     }
     
@@ -77,7 +78,7 @@ struct ShroomScannerView: View {
     private var rectView: some View {
         Rectangle()
             .strokeBorder()
-            .foregroundColor(.yellow)
+            .foregroundColor(Color("shroomSecondary"))
             .frame(width: 300, height:300)
             .overlay(
                 Group {
@@ -96,7 +97,7 @@ struct ShroomScannerView: View {
     private var emptyStateView: some View {
         VStack {
             Image(systemName: "bolt.fill")
-                .foregroundColor(.orange)
+                .foregroundColor(Color("shroomPrimary"))
                 .font(.title)
             Text("Detect Your 🍄!")
                 .font(.title3)
@@ -115,6 +116,7 @@ struct ShroomScannerView: View {
                 } label: {
                     HStack {
                         Text(pred.id.capFirstLetter())
+                            .foregroundColor(Color("shroomPrimary"))
                             .font(.title3)
                             .bold()
                         Spacer()
