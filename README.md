@@ -3,11 +3,11 @@
 MobileNetV2 Powered Mushroom Classification App!
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_1.png" width="200" style="border:none;">
-    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_2.png" width="200" style="border:none;">
-    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_3.png" width="200" style="border:none;">
-    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_4.png" width="200" style="border:none;">
-    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_5.png" width="200" style="border:none;">
+    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_1.png" width="150" style="border:none;">
+    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_2.png" width="150" style="border:none;">
+    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_3.png" width="150" style="border:none;">
+    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_4.png" width="150" style="border:none;">
+    <img src="https://raw.githubusercontent.com/Seohyeong/ShroomScanner/main/resources/screen_5.png" width="150" style="border:none;">
 </p>
 
 ### Model Accracy
